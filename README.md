@@ -58,5 +58,10 @@ Calcule la media de los datos si la media esta dada por:
    ```sh
    .\venv\Scripts\Activate.ps1
    ```
+5. Run Code
+   ```sh
+   python .\ulatina_katy_brin_tarea_1.py
+   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
