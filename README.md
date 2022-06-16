@@ -18,7 +18,7 @@ Estudiante de la U Latina. Lista para utilizar mis habilidades y pasión para im
 - Colaboración 
 - Flexibilidad
 
-## Guia para probar mis proyectos.
+## Guía para probar mis proyectos.
 
 ### Requisitos.
 - Python 3.9 Windows
