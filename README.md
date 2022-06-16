@@ -24,17 +24,17 @@ NOTA:  La entrada puede ser cualquier valor tanto entero como flotante
 h1 = 1.5m, h2 = 2.2m, h3 = 1.56m, h4 = 1.78m, h5 = 1.82m, h6 = 1.90m, h7 = 1.66m, h8 = 1.91m, h9 = 1.76m, h10=1.88m
 Calcule la media de los datos si la media esta dada por: 
  
-NOTA:  La media es la suma de todos los valores dividido entre la cantidad total de muestras, en este caso, 10.
+ NOTA:  La media es la suma de todos los valores dividido entre la cantidad total de muestras, en este caso, 10.
   
 3. Calcule la desviación estándar de los 10 datos anteriores, si la desviación estándar es:
  
-NOTA:  Para calcular la desviación estándar se debe 
-- Tomar cada dato, restarle la media, elevarlo al cuadrado
-- Repetir esta operación para cada dato
-- Sumar todos los resultados
-- Dividirlo la suma total entre el total de valores o muestras
-- Sacar la raíz cuadrada 
-NOTA:  Puede conseguir la raíz k de un número recordando que puede ser expresada como potenciación (num)1/k
+ NOTA:  Para calcular la desviación estándar se debe 
+ - Tomar cada dato, restarle la media, elevarlo al cuadrado
+ - Repetir esta operación para cada dato
+ - Sumar todos los resultados
+ - Dividirlo la suma total entre el total de valores o muestras
+ - Sacar la raíz cuadrada 
+ NOTA:  Puede conseguir la raíz k de un número recordando que puede ser expresada como potenciación (num)1/k
 
 
 ### Instalar
