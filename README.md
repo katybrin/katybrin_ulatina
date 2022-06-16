@@ -49,12 +49,12 @@ Calcule la media de los datos si la media esta dada por:
 
 ### Instalar
 - Python 3.9 Windows
-    1. Descarga Python desde el [Windows Download](https://www.python.org/downloads/windows/) page.
+    1. Descarga Python desde el [Windows Download](https://www.python.org/downloads/windows/) página.
     2. Ejecutar el instalador.
-        - Asegúrate de _check_ la casilla para tener Python agregado a su `PATH` si el instalador ofrece esa opción (normalmente está desactivada de forma predeterminada).
+        - Asegúrate de _activar_ la casilla para tener Python agregado a su `PATH` si el instalador ofrece esa opción (normalmente está desactivada de forma predeterminada).
 
 
-### Pasos para probar codigo
+### Pasos para probar código
 1. Clonar repositorio
    ```sh
    git clone https://github.com/katybrin/katybrin_ulatina.git
@@ -67,7 +67,7 @@ Calcule la media de los datos si la media esta dada por:
    ```sh
    .\venv\Scripts\Activate.ps1
    ```
-5. Correr el codigo
+5. Correr el código
    ```sh
    python .\ulatina_katy_brin_tarea_1.py
    ```
