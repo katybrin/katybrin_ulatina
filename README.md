@@ -48,7 +48,7 @@ Calcule la media de los datos si la media esta dada por:
 ### Probar
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/katybrin/katybrin_ulatina.git
    ```
 3. Install Virtual Env
    ```sh
