@@ -18,6 +18,35 @@ Estudiante de la U Latina. Lista para utilizar mis habilidades y pasión para im
 - Colaboración 
 - Flexibilidad
 
+## Guia para probar mis proyectos.
+
+### Requisitos.
+- Python 3.9 Windows
+    1. Descarga Python desde el [Windows Download](https://www.python.org/downloads/windows/) página.
+    2. Ejecutar el instalador.
+        - Asegúrate de _activar_ la casilla para tener Python agregado a su `PATH` si el instalador ofrece esa opción (normalmente está desactivada de forma predeterminada).
+
+
+### Pasos para el probar código.
+1. Clonar repositorio
+   ```sh
+   git clone https://github.com/katybrin/katybrin_ulatina.git
+   ```
+3. Instalar Virtual Env
+   ```sh
+    python -m venv venv
+   ```
+4. Activar Virtual Env
+   ```sh
+   .\venv\Scripts\Activate.ps1
+   ```
+5. Correr el código
+   ```sh
+   python .\ulatina_katy_brin_tarea_1.py
+   ```
+
+
+
 
 ## Tarea 1 – Introducción a Python y Git
 
@@ -49,32 +78,5 @@ Calcule la media de los datos si la media esta dada por:
    NOTA:  Puede conseguir la raíz k de un número recordando que puede ser expresada como potenciación (num)1/k
    
 ![image](https://user-images.githubusercontent.com/107643157/174153134-eb728247-9c14-4c26-be12-51094387689e.png)
-
-
-### Instalar
-- Python 3.9 Windows
-    1. Descarga Python desde el [Windows Download](https://www.python.org/downloads/windows/) página.
-    2. Ejecutar el instalador.
-        - Asegúrate de _activar_ la casilla para tener Python agregado a su `PATH` si el instalador ofrece esa opción (normalmente está desactivada de forma predeterminada).
-
-
-### Pasos para el probar código
-1. Clonar repositorio
-   ```sh
-   git clone https://github.com/katybrin/katybrin_ulatina.git
-   ```
-3. Instalar Virtual Env
-   ```sh
-    python -m venv venv
-   ```
-4. Activar Virtual Env
-   ```sh
-   .\venv\Scripts\Activate.ps1
-   ```
-5. Correr el código
-   ```sh
-   python .\ulatina_katy_brin_tarea_1.py
-   ```
-
 
 <p align="right">(<a href="#top">Regresar al inicio</a>)</p>
