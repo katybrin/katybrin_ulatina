@@ -20,6 +20,8 @@ Estudiante de la U Latina. Lista para utilizar mis habilidades y pasión para im
 
 ## Guía para probar mis proyectos.
 
+### Proyectos Python.
+
 ### Requisitos.
 - Python 3.9 Windows
     1. Descarga Python desde el [Windows Download](https://www.python.org/downloads/windows/) página.
