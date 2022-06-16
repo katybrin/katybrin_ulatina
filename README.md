@@ -18,9 +18,11 @@
 ## Tarea 1 – Introducción a Python y Git
 
 1. Realice un programa que inserte la temperatura en grados celcius y la salida sea la temperatura en grados Kelvin.  Favor conseguir la siguiente salida, p.e. si la entrada es 25°C.
+
 ![image](https://user-images.githubusercontent.com/107643157/174153245-e26891f7-5f93-4059-99ce-67fc2bedd5df.png)
 
 NOTA:  La entrada puede ser cualquier valor tanto entero como flotante
+
 ![image](https://user-images.githubusercontent.com/107643157/174153232-e4d9eefd-c824-4961-9862-629cf0a4c7a0.png)
 
 2. Las estaturas de las siguientes 10 personas son las siguientes dadas en metros en el sistema internacional.
@@ -30,6 +32,7 @@ Calcule la media de los datos si la media esta dada por:
    NOTA:  La media es la suma de todos los valores dividido entre la cantidad total de muestras, en este caso, 10.
   
 3. Calcule la desviación estándar de los 10 datos anteriores, si la desviación estándar es:
+
 ![image](https://user-images.githubusercontent.com/107643157/174153183-9de585c4-5778-4f6f-84d9-a68c1ad0226d.png)
 
    NOTA:  Para calcular la desviación estándar se debe 
@@ -40,6 +43,7 @@ Calcule la media de los datos si la media esta dada por:
    - Sacar la raíz cuadrada 
  
    NOTA:  Puede conseguir la raíz k de un número recordando que puede ser expresada como potenciación (num)1/k
+   
 ![image](https://user-images.githubusercontent.com/107643157/174153134-eb728247-9c14-4c26-be12-51094387689e.png)
 
 
