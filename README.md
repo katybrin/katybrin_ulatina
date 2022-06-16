@@ -2,7 +2,7 @@
 
 Sobre mi.
 
-Estudiante de la U Latina. Lista para utilizar mis habilidades y pasión para impulsar la misión de una compañía. Tecnológicamente hábil, ofrece experiencia con muchas plataformas de medios sociales, programas de tecnología de oficina y habilidades informáticas avanzadas. Deseo aportar una actitud positiva y la voluntad y motivación para aprender y afrontar nuevos retos.
+Estudiante de la U Latina. Lista para utilizar mis habilidades y pasión para impulsar la misión de una compañía. Tecnológicamente hábil, ofrezco experiencia con muchas plataformas de medios sociales, programas de tecnología de oficina y habilidades informáticas avanzadas. Deseo aportar una actitud positiva y la voluntad y motivación para aprender y afrontar nuevos retos.
 
 ### Fortalezas:
 - Amabilidad 
