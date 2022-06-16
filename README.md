@@ -54,7 +54,7 @@ Calcule la media de los datos si la media esta dada por:
         - Asegúrate de _activar_ la casilla para tener Python agregado a su `PATH` si el instalador ofrece esa opción (normalmente está desactivada de forma predeterminada).
 
 
-### Pasos para probar código
+### Pasos para el probar código
 1. Clonar repositorio
    ```sh
    git clone https://github.com/katybrin/katybrin_ulatina.git
