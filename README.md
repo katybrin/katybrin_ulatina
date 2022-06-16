@@ -1,13 +1,13 @@
 # katybrin_ulatina
 
-### SubtítuloFortalezas:
+### Fortalezas:
 - Amabilidad 
 - Gratitud 
 - Persistencia 
 - Adaptabilidad 
 - Empatía
 
-### SubtítuloHabilidades:
+### Habilidades:
 - Capacidad de organización 
 - Productividad 
 - Trabajo en equipo
